@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+command exec mdbook serve
+
